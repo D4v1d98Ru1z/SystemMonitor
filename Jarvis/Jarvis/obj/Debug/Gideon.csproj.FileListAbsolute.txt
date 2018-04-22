@@ -1,0 +1,7 @@
+E:\C#\Jarvis\Jarvis\bin\Debug\Jarvis.exe.config
+E:\C#\Jarvis\Jarvis\bin\Debug\Jarvis.exe
+E:\C#\Jarvis\Jarvis\bin\Debug\Jarvis.pdb
+E:\C#\Jarvis\Jarvis\obj\Debug\Gideon.csprojResolveAssemblyReference.cache
+E:\C#\Jarvis\Jarvis\obj\Debug\Gideon.csproj.CoreCompileInputs.cache
+E:\C#\Jarvis\Jarvis\obj\Debug\Jarvis.exe
+E:\C#\Jarvis\Jarvis\obj\Debug\Jarvis.pdb
